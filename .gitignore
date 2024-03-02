@@ -1,0 +1,37 @@
+# PyCharm files
+.idea/
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Test artifacts
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.venv/
+env/
+venv/
+ENV/
+
+# Package files
+*.tar.gz
+
+# Log files
+*.log
+
+# Database
+*.sqlite
